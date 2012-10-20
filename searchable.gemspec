@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["stefan.huska@gmail.com"]
   gem.description   = %q{Simple search by LIKE queries}
   gem.summary       = %q{Simple search by LIKE queries}
-  gem.homepage      = "http://www.stefanhuska.sk"
+  gem.homepage      = "http://github.com/kelso/searchable"
 
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
