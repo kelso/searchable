@@ -5,7 +5,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Stefan Huska"]
   gem.email         = ["stefan.huska@gmail.com"]
   gem.description   = %q{Simple search by LIKE queries}
-  gem.summary       = %q{Searching in rails app}
+  gem.summary       = %q{Simple search by LIKE queries}
   gem.homepage      = "http://www.stefanhuska.sk"
 
   gem.files         = `git ls-files`.split($\)
